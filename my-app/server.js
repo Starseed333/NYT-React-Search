@@ -29,17 +29,3 @@ db.on("error", error => console.log("Mongoose Error: ", error));
 // Log a success message
 db.once("open", error => console.log("Mongoose connection successful."));
 
-
-
-
-
-
-
-
-
-
-// Start the server
-app.listen(PORT, function() {
-  console.log("App running on port " + PORT + "!");
-});
-
