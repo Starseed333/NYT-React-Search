@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({
   extended: false
 }));
 mongoose.Promise = Promise;
-mongoose.connect("mongodb://localhost/nytsearch", {
+mongoose.connect("mongodb://heroku_fvmw6l8b:rt8o0ksq9ru7rl7iqt78oaj6t3@ds137256.mlab.com:37256/heroku_fvmw6l8b", {
     useMongoClient: true
 });
 
