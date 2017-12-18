@@ -2,7 +2,7 @@
 
 ### **Description**
 
-This is a React-based rendition of the New York Times Article Search application. This was created using the create React components, which work with helper functions, and utilize the React mounting lifecycle to query and display articles based on user searches. Also used in this application is Node, Express and MongoDB so that users can save articles to read later. 
+This is a React-based rendition of the New York Times Article Search application. This was created using the create react components, which work with helper functions, and utilize the React mounting lifecycle to query and display articles based on user searches. Also used in this application is Node, Express and MongoDB so that users can save articles to read later. 
 
 ### **MongoDB**
 
@@ -28,9 +28,8 @@ This is a React-based rendition of the New York Times Article Search application
 * React-Router-Dom
 * React-Scripts
 
-* Check out the [News-Scraper Application Deployed at Heroku](https://gentle-citadel-55468.herokuapp.com)
 
-* Check out the application in [youtube](https://youtu.be/3OsYvHtNYL0)
+* Check out the application in [youtube](https://youtu.be/4i_NtOnbhr0)
 
 
 
